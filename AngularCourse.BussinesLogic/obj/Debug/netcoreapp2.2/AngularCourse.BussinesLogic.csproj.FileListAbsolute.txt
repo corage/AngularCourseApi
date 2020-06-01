@@ -1,0 +1,8 @@
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.BussinesLogic\bin\Debug\netcoreapp2.2\AngularCourse.BussinesLogic.deps.json
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.BussinesLogic\bin\Debug\netcoreapp2.2\AngularCourse.BussinesLogic.dll
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.BussinesLogic\bin\Debug\netcoreapp2.2\AngularCourse.BussinesLogic.pdb
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.BussinesLogic\obj\Debug\netcoreapp2.2\AngularCourse.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.BussinesLogic\obj\Debug\netcoreapp2.2\AngularCourse.BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.BussinesLogic\obj\Debug\netcoreapp2.2\AngularCourse.BussinesLogic.AssemblyInfo.cs
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.BussinesLogic\obj\Debug\netcoreapp2.2\AngularCourse.BussinesLogic.dll
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.BussinesLogic\obj\Debug\netcoreapp2.2\AngularCourse.BussinesLogic.pdb

@@ -1,0 +1,12 @@
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.Repositories\bin\Debug\netcoreapp2.2\AngularCourse.Repositories.deps.json
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.Repositories\bin\Debug\netcoreapp2.2\AngularCourse.Repositories.dll
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.Repositories\bin\Debug\netcoreapp2.2\AngularCourse.Repositories.pdb
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.Repositories\bin\Debug\netcoreapp2.2\AngularCourse.Models.dll
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.Repositories\bin\Debug\netcoreapp2.2\AngularCourse.Models.pdb
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.Repositories\obj\Debug\netcoreapp2.2\AngularCourse.Repositories.csprojAssemblyReference.cache
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.Repositories\obj\Debug\netcoreapp2.2\AngularCourse.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.Repositories\obj\Debug\netcoreapp2.2\AngularCourse.Repositories.AssemblyInfoInputs.cache
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.Repositories\obj\Debug\netcoreapp2.2\AngularCourse.Repositories.AssemblyInfo.cs
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.Repositories\obj\Debug\netcoreapp2.2\AngularCourse.Repositories.csproj.CopyComplete
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.Repositories\obj\Debug\netcoreapp2.2\AngularCourse.Repositories.dll
+C:\Users\nhvil01\Documents\Visual Studio 2017\Projects\AngularCourse\AngularCourse.Repositories\obj\Debug\netcoreapp2.2\AngularCourse.Repositories.pdb
